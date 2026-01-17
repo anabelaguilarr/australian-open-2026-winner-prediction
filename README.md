@@ -1,11 +1,11 @@
 # australian-open-2026-winner-prediction
-## Australian Open 2026 – Men’s Champion Prediction
+# Australian Open 2026 – Men’s Champion Prediction
 
 This project applies machine learning and probabilistic simulation to estimate the men’s singles champion at the Australian Open 2026. The goal is to model match outcomes realistically and translate those predictions into tournament-level probabilities using the official draw.
 
 Rather than predicting a single winner outright, the approach focuses on estimating match-level win probabilities and simulating the full tournament many times to reflect the uncertainty inherent in tennis competition.
 
-# Project Approach
+## Project Approach
 
 The model is built using historical ATP match data along with early 2026 results that occurred prior to the tournament. Player strength is represented through Elo ratings, with separate tracking for overall performance and hard-court performance. Recent form is incorporated using rolling performance windows to capture short-term trends.
 
