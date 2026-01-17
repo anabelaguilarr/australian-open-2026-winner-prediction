@@ -50,3 +50,22 @@ Quarter-finalists
 * De Minaur A
 
 The full pipeline, from data preparation to tournament simulation and visualization, is documented in the notebook included in this repository. Running the notebook from top to bottom will reproduce the results.
+
+Data sources
+
+Match data and draw information were collected from publicly available tennis data sources, including:
+
+Official Australian Open draws: https://ausopen.com/draws
+
+ATP match database (TML Database): https://github.com/Tennismylife/TML-Database
+
+Tennis Data UK (historical match results): http://www.tennis-data.co.uk/alldata.php
+
+ATP Tennis dataset (2000–2023): https://www.kaggle.com/datasets/dissfya/atp-tennis-2000-2023
+
+These sources were combined and cleaned to create a unified, match-level dataset for modeling.
+
+Author
+
+Anabel Aguilar Ramirez
+https://www.linkedin.com/in/anabel-aguilar-ramirez-491a36228/
