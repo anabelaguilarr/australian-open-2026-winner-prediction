@@ -33,16 +33,16 @@ Across simulations, the model identifies Jannik Sinner as the most likely men’
 
 Predicted Tournament Outcomes
 Champion 🏆
-Sinner J
+* Sinner J
 Runner-up 🥈
-Alcaraz C
+* Alcaraz C
 Semi-finalists
-Djokovic N
-Zverev A
+* Djokovic N
+* Zverev A
 Quarter-finalists
-Auger-Aliassime F
-Medvedev D
-Fritz T
-De Minaur A
+* Auger-Aliassime F
+* Medvedev D
+* Fritz T
+* De Minaur A
 
 The full pipeline, from data preparation to tournament simulation and visualization, is documented in the notebook included in this repository. Running the notebook from top to bottom will reproduce the results.
