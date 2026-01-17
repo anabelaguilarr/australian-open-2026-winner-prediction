@@ -5,7 +5,7 @@ This project applies machine learning and probabilistic simulation to estimate t
 
 Rather than predicting a single winner outright, the approach focuses on estimating match-level win probabilities and simulating the full tournament many times to reflect the uncertainty inherent in tennis competition.
 
-## Project Approach
+# Project Approach
 
 The model is built using historical ATP match data along with early 2026 results that occurred prior to the tournament. Player strength is represented through Elo ratings, with separate tracking for overall performance and hard-court performance. Recent form is incorporated using rolling performance windows to capture short-term trends.
 
