@@ -32,8 +32,6 @@ Across simulations, the model identifies Jannik Sinner as the most likely men’
 
 <img width="568" height="276" alt="image" src="https://github.com/user-attachments/assets/6f882a83-6025-4b10-87b2-43baf5564ff0" />
 
-<img width="665" height="470" alt="image" src="https://github.com/user-attachments/assets/66df577a-9563-4268-8e86-b87000130ed6" />
-
 ## Predicted Tournament Outcomes
 
 Champion 🏆
